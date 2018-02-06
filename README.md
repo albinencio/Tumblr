@@ -40,7 +40,7 @@ We became more familiar with TableViews, the use of APIs and HTTP requests.
 
 ## License
 
-    Copyright [2017] Alberto Nencioni Manik Narang
+    Copyright © 2018 Alberto Nencioni, Manik Narang. All rights reserved.
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
